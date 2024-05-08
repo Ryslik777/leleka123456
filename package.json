@@ -12,7 +12,8 @@
   },
   "dependencies": {
     "tea-demonstration": "1.0.0",
-    "minti_fulkerson": "0.1.4"
+    "minti_fulkerson": "0.1.4",
+    "paket228": "1.0.3"
   },
   "author": "",
   "license": "ISC",
