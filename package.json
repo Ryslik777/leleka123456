@@ -1,6 +1,6 @@
 {
   "name": "leleka123456",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Demonstration",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/davishuffin/tea-demonstration.git"
+    "url": "git+https://github.com/Ryslik777/leleka123456.git"
   },
   "dependencies": {
     "tea-demonstration": "1.0.0",
@@ -17,7 +17,8 @@
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/davishuffin/tea-demonstration/issues"
+    "url": "https://github.com/Ryslik777/leleka123456.git"
   },
-  "homepage": "https://github.com/davishuffin/tea-demonstration#readme"
+  "homepage": "https://github.com/Ryslik777/leleka123456.git",
+  "devDependencies": {}
 }
